@@ -138,7 +138,7 @@ Uso de LLM com **Prompt Engineering**
 
 ### Tipos de processamento
 
-#### ✔ Geração de resumo
+#### Geração de resumo
 
 A IA recebe o texto completo e retorna:
 
@@ -146,7 +146,7 @@ A IA recebe o texto completo e retorna:
 - Níveis de risco  
 - Explicações simplificadas  
 
-#### ✔ Explicação individual
+#### Explicação individual
 
 Para cada condição:
 
@@ -154,7 +154,7 @@ Para cada condição:
 - Qual o risco  
 - O que significa na prática  
 
-#### ✔ Perguntas e respostas
+#### Perguntas e respostas
 
 Exemplos:
 
@@ -211,9 +211,9 @@ Exemplos:
 
 ## 9. Interface da Aplicação
 
-### Tecnologia sugerida
+### Tecnologia 
 
-- Streamlit (rápido e simples)
+- Streamlit
 
 ### Funcionalidades
 
